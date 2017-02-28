@@ -1,3 +1,9 @@
+python-azure-common (1.1.4-1) pexip; urgency=low
+
+  * New upstream release
+
+ -- John-Mark Bell <jmb@pexip.com>  Tue, 28 Feb 2017 01:31:43 +0000
+
 python-azure-common (1.1.1-2) pexip; urgency=low
 
   * No-change rebuild
