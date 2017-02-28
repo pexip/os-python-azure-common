@@ -34,7 +34,7 @@ except ImportError:
 
 setup(
     name='azure-common',
-    version='1.1.1',
+    version='1.1.4',
     description='Microsoft Azure Client Library for Python (Common)',
     long_description=open('README.rst', 'r').read(),
     license='Apache License 2.0',
@@ -61,6 +61,9 @@ setup(
         'azure-nspkg',
     ],
     extras_require={
-        'autorest':['msrestazure>=0.1.1']
+        'autorest':[
+            'msrestazure>=0.4.0,<0.5.0',
+            'msrest>=0.4.0,<0.5.0'
+        ]
     }
 )

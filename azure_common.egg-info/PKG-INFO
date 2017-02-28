@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: azure-common
-Version: 1.1.1
+Version: 1.1.4
 Summary: Microsoft Azure Client Library for Python (Common)
 Home-page: https://github.com/Azure/azure-sdk-for-python
 Author: Microsoft Corporation
